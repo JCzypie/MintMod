@@ -1,0 +1,15 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Frozen Spade
+$ID: mint_frozenspade
+$DESCRIPTION1: Used for breaking dirt and sand
+$DESCRIPTION2: Also removes C4 and TNT
+
+"STYLE: Spade
+#TIER: 7
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: 32, 64, 255
+
+%DAMAGE: 1700
+%SELF_DAMAGE: .01

@@ -1,0 +1,28 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_shiftingsand
+$DROP_ITEM: mint_shiftingsand
+$NAME: Swift Sand
+$DESCRIPTION1: Used for travel
+$DESCRIPTION2: Increases speed when walking over this block
+
+%POWER_SPEED_MULTIPLIER: 1.66
+
+"TOOL_TO_MINE: Shovel
+#TIER_TO_MINE: 0
+%SECONDS_TO_MINE: 3
+$MINE_SOUND: Sand
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 20
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: shiftingsand
+$"TEXTURE2: shiftingsand
+$"TEXTURE3: shiftingsand
+$"TEXTURE4: shiftingsand
+$"TEXTURE5: shiftingsand
+$"TEXTURE6: shiftingsand

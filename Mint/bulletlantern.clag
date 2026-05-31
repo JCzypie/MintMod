@@ -1,0 +1,34 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_bulletlantern
+$DROP_ITEM: mint_bulletlantern
+$NAME: Guardian Lantern
+$DESCRIPTION1: Increases weapon proficiency when stood on
+$DESCRIPTION2: Used best in guard towers
+
+%POWER_SELF_DAMAGE_MULTIPLIER: .05
+%POWER_INACCURACY_MULTIPLIER: .225
+%POWER_RECIEVED_DAMAGE_MULTIPLIER: .8
+=DEFLECTS_LASERS: True
+=GLOWS: True
+
+%SELF_ILLUMINATION: 10
+%LIGHT_TRANSMISSION 100
+
+"TOOL_TO_MINE: Hands
+#TIER_TO_MINE: 0
+%SECONDS_TO_MINE: 3
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 20
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: bulletlantern
+$"TEXTURE2: bulletlantern
+$"TEXTURE3: bulletlantern
+$"TEXTURE4: bulletlantern
+$"TEXTURE5: bulletlantern
+$"TEXTURE6: bulletlantern

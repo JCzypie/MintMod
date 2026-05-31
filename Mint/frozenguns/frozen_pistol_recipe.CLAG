@@ -1,0 +1,6 @@
+Recipe
+$NAME: Frozen Pistol Recipe
+$AUTHOR: JCzypie
+
+INPUT: Bloodstone Pistol=1, Frozen Bloodstone=5, Permafrost=2
+OUTPUT: Frozen Pistol=1

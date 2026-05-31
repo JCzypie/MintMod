@@ -1,0 +1,7 @@
+Block Replacement
+$NAME: Deepslate Iron Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Iron Ore
+$BLOCK_TO_REPLACE_WITH: mint_deepslate_iron
+#MAXIMUM_SPAWN_HEIGHT: -22

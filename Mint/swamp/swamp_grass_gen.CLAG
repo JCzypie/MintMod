@@ -1,0 +1,8 @@
+Block Replacement
+$NAME: Swamp Grass Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Grass
+$BLOCK_TO_REPLACE_WITH: mint_swampgrass
+#MINIMUM_SPAWN_DISTANCE: 500
+#MAXIMUM_SPAWN_DISTANCE: 1200

@@ -1,0 +1,7 @@
+Enemy Loot
+$NAME: Life Station Loot
+$AUTHOR: JCzypie
+
+"ENEMY: Zombie, Skeleton, Alien, Demon
+"ITEM: mint_lifestation
+%CHANCE: 1

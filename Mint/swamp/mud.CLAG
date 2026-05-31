@@ -1,0 +1,28 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_mud
+$DROP_ITEM: Dirt
+$NAME: Mud
+$DESCRIPTION1: Found on the surface
+$DESCRIPTION2: This is a raw material that must be found
+
+=DEFLECTS_LASERS: False
+
+"TOOL_TO_MINE: Hands
+#TIER_TO_MINE: 0
+%SECONDS_TO_MINE: 3
+
+#EXPLOSIVE_RESISTANCE: 1
+#ZOMBIE_RESISTANCE: 1
+#DRAGON_RESISTANCE: 1
+%FIREBALL_DAMAGE_TRANSMISSION: 50
+
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: mud
+$"TEXTURE2: mud
+$"TEXTURE3: mud
+$"TEXTURE4: mud
+$"TEXTURE5: mud
+$"TEXTURE6: mud

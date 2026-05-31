@@ -1,0 +1,30 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_frozenblood
+$DROP_ITEM: mint_frozenblood
+$NAME: Frozen Bloodstone
+$DESCRIPTION1: Found in frozen hell
+$DESCRIPTION2: Reduces speed when walking over this block
+
+%POWER_SPEED_MULTIPLIER: .67
+=DEFLECTS_LASERS: True
+
+%LIGHT_TRANSMISSION: 90
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 2
+%SECONDS_TO_MINE: 9
+
+#ZOMBIE_RESISTANCE: 4
+#DRAGON_RESISTANCE: 4
+%FIREBALL_DAMAGE_TRANSMISSION: 20
+#EXPLOSIVE_RESISTANCE: 4
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: frozenblood
+$"TEXTURE2: frozenblood
+$"TEXTURE3: frozenblood
+$"TEXTURE4: frozenblood
+$"TEXTURE5: frozenblood
+$"TEXTURE6: frozenblood

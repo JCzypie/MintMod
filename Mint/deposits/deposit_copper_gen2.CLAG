@@ -1,0 +1,7 @@
+Block Replacement
+$NAME: Deposit Copper Generation 2
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Copper Ore
+$BLOCK_TO_REPLACE_WITH: mint_deposit_copper
+#MINIMUM_SPAWN_DISTANCE: 3001

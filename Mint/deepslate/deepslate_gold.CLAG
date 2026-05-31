@@ -1,0 +1,29 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_deepslate_gold
+$DROP_ITEM: Gold
+$NAME: Deepslate Gold
+$DESCRIPTION1: Found deep underground
+$DESCRIPTION2: This is a raw material that must be found
+
+#DROP_MINIMUM_AMOUNT: 2
+#DROP_MAXIMUM_AMOUNT: 4
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 3
+%SECONDS_TO_MINE: 8
+
+#EXPLOSIVE_RESISTANCE: 2
+#ZOMBIE_RESISTANCE: 2
+#DRAGON_RESISTANCE: 2
+%FIREBALL_DAMAGE_TRANSMISSION: 50
+
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: deepslate_gold
+$"TEXTURE2: deepslate_gold
+$"TEXTURE3: deepslate_gold
+$"TEXTURE4: deepslate_gold
+$"TEXTURE5: deepslate_gold
+$"TEXTURE6: deepslate_gold

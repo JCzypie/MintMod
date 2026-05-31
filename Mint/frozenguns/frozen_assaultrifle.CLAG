@@ -1,0 +1,35 @@
+Firearm
+$AUTHOR: JCzypie
+
+$ID mint_frozenassaultrifle
+$NAME: Frozen Assault Rifle
+$DESCRIPTION1: High power full auto
+$DESCRIPTION2: Uses Diamond Bullets
+
+$"MODEL: Assault Rifle
+"ANIMATION: Assault Rifle
+*MODEL_COLOR1: 32, 64, 255
+*MODEL_COLOR2: 255, 255, 255
+
+%ZOOM_AMOUNT: 2
+=SCOPED: False
+=HIDE_CROSSHAIR: False
+
+$AMMO_NAME: Diamond Bullets
+"PROJECTILE_TYPE: Normal
+%BULLET_SPEED: 100
+%BULLET_LIFETIME: 2
+*PROJECTILE_COLOR: 64, 96, 255
+
+=AUTOMATIC: True
+#CLIP_SIZE: 30
+#ROUNDS_PER_RELOAD: 30
+%SECONDS_TO_RELOAD: 3
+%BULLETS_PER_SECOND: 10
+"RELOAD_SFX: AssaultReload
+"SHOOT_SFX: GunShot3
+
+%DAMAGE: 1800
+%SELF_DAMAGE: .01
+%RECOIL: 3.33
+%INACCURACY: 2

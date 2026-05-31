@@ -1,0 +1,6 @@
+Recipe
+$NAME: Frozen Assault Rifle Recipe
+$AUTHOR: JCzypie
+
+INPUT: Bloodstone Assault Rifle=1, Frozen Bloodstone=25, Permafrost=6
+OUTPUT: Frozen Assault Rifle=1

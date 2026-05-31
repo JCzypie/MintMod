@@ -1,0 +1,6 @@
+Recipe
+$NAME: Frozen LMG Recipe
+$AUTHOR: JCzypie
+
+INPUT: Bloodstone Light Machine Gun=1, Frozen Bloodstone=30, Permafrost=6
+OUTPUT: Frozen Light Machine Gun=1

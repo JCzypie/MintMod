@@ -1,0 +1,7 @@
+Block Replacement
+$NAME: Deposit Coal Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Coal Ore
+$BLOCK_TO_REPLACE_WITH: mint_deposit_coal
+#MAXIMUM_SPAWN_DISTANCE: 2399

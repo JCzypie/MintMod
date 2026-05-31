@@ -1,0 +1,7 @@
+Block Replacement
+$NAME: Deepslate Diamond Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Diamond Ore
+$BLOCK_TO_REPLACE_WITH: mint_deepslate_diamond
+#MAXIMUM_SPAWN_HEIGHT: -22

@@ -1,0 +1,6 @@
+Recipe
+$NAME: Frozen Pickaxe Recipe
+$AUTHOR: JCzypie
+
+INPUT: Bloodstone Pickaxe=1, mint_frozenblood=10, mint_permafrost=3
+OUTPUT: mint_frozenpickaxe=1

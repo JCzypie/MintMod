@@ -1,0 +1,14 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Frozen Pickaxe
+$ID: mint_frozenpickaxe
+$DESCRIPTION1: Used for breaking certain stones and ores
+
+"STYLE: Pickaxe
+#TIER: 7
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: 32, 64, 255
+
+%DAMAGE: 1700
+%SELF_DAMAGE: .01

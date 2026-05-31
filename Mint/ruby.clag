@@ -1,0 +1,12 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Ruby
+$ID: mint_ruby
+$DESCRIPTION1: Rare gem dropped by the undead
+$DESCRIPTION2: Collect 4 to craft lanterns with special properties
+#STACK_SIZE: 64
+
+$”MODEL: Gem
+*MODEL_COLOR1: 255, 8, 40
+*MODEL_COLOR2: 224, 0, 0

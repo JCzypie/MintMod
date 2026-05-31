@@ -1,0 +1,7 @@
+Block Replacement
+$NAME: Deepslate Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Rock
+$BLOCK_TO_REPLACE_WITH: mint_deepslate
+#MAXIMUM_SPAWN_HEIGHT: -22

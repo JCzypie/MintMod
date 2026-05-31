@@ -1,0 +1,33 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_permafrost
+$DROP_ITEM: mint_permafrost
+$NAME: Permafrost
+$DESCRIPTION1: Found in arctic hell
+$DESCRIPTION2: Upgrades bloodstone tools and weapons
+
+%POWER_SPEED_MULTIPLIER: .67
+=HAS_COLLISION: True
+=DEFLECTS_LASERS: True
+=GLOWS: True
+
+%SELF_ILLUMINATION: 10
+%LIGHT_TRANSMISSION 100
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 5
+%SECONDS_TO_MINE: 9
+
+#ZOMBIE_RESISTANCE: 4
+#DRAGON_RESISTANCE: 4
+%FIREBALL_DAMAGE_TRANSMISSION: 20
+#EXPLOSIVE_RESISTANCE: 4
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: permafrost
+$"TEXTURE2: permafrost
+$"TEXTURE3: permafrost
+$"TEXTURE4: permafrost
+$"TEXTURE5: permafrost
+$"TEXTURE6: permafrost

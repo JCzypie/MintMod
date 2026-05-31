@@ -1,0 +1,26 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_reinforcedstone
+$DROP_ITEM: mint_reinforcedstone
+$NAME: Reinforced Rock
+$DESCRIPTION1: Stronger Material
+$DESCRIPTION2: Combination of Wood and Stone
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 1
+%SECONDS_TO_MINE: 5
+
+#EXPLOSIVE_RESISTANCE: 2
+#ZOMBIE_RESISTANCE: 2
+#DRAGON_RESISTANCE: 2
+%FIREBALL_DAMAGE_TRANSMISSION: 50
+
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: reinforcedstone
+$"TEXTURE2: reinforcedstone
+$"TEXTURE3: reinforcedstone
+$"TEXTURE4: reinforcedstone
+$"TEXTURE5: reinforcedstone
+$"TEXTURE6: reinforcedstone

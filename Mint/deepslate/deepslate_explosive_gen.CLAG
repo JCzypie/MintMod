@@ -1,0 +1,8 @@
+Block Replacement
+$NAME: Deepslate Coal Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Magma
+$BLOCK_TO_REPLACE_WITH: mint_deepslate_explosive
+#MINIMUM_SPAWN_DISTANCE: 3300
+#MAXIMUM_SPAWN_HEIGHT: -28

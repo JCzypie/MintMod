@@ -1,0 +1,6 @@
+Recipe
+$NAME: Frozen Shotgun Recipe
+$AUTHOR: JCzypie
+
+INPUT: Bloodstone Shotgun=1, Frozen Bloodstone=10, Permafrost=3
+OUTPUT: Frozen Shotgun=1

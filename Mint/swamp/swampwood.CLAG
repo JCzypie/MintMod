@@ -1,0 +1,27 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_swampwood
+$DROP_ITEM: mint_swampwood
+$NAME: Swamp Wood
+$DESCRIPTION1: Weak block used to craft items
+
+=DEFLECTS_LASERS: False
+
+"TOOL_TO_MINE: Axe
+#TIER_TO_MINE: 0
+%SECONDS_TO_MINE: 3
+
+#EXPLOSIVE_RESISTANCE: 1
+#ZOMBIE_RESISTANCE: 1
+#DRAGON_RESISTANCE: 1
+%FIREBALL_DAMAGE_TRANSMISSION: 50
+
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: swampwood
+$"TEXTURE2: swampwood
+$"TEXTURE3: swampwood
+$"TEXTURE4: swampwood
+$"TEXTURE5: swampwood
+$"TEXTURE6: swampwood

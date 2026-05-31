@@ -1,0 +1,13 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Frozen Knife
+$ID: mint_frozenknife
+$DESCRIPTION1: Basic melee defense
+
+"STYLE: Knife
+#TIER: 7
+%SECONDS_TO_ATTACK: 0.2
+*MATERIAL_COLOR: 32, 64, 255
+
+%DAMAGE: 1700

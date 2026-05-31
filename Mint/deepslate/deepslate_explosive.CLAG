@@ -1,0 +1,29 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_deepslate_explosive
+$DROP_ITEM: Explosive Powder
+$NAME: Deepslate Explosive Deposit
+$DESCRIPTION1: Found deep underground
+$DESCRIPTION2: This is a raw material that must be found
+
+#DROP_MINIMUM_AMOUNT: 2
+#DROP_MAXIMUM_AMOUNT: 4
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 4
+%SECONDS_TO_MINE: 12
+
+#EXPLOSIVE_RESISTANCE: 2
+#ZOMBIE_RESISTANCE: 2
+#DRAGON_RESISTANCE: 2
+%FIREBALL_DAMAGE_TRANSMISSION: 50
+
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: deepslate_explosive
+$"TEXTURE2: deepslate_explosive
+$"TEXTURE3: deepslate_explosive
+$"TEXTURE4: deepslate_explosive
+$"TEXTURE5: deepslate_explosive
+$"TEXTURE6: deepslate_explosive

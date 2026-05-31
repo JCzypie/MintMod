@@ -1,0 +1,29 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_deposit_coal
+$DROP_ITEM: Coal
+$NAME: Coal Deposit
+$DESCRIPTION1: Drops 2-4 Coal
+$DESCRIPTION2: Found in the Outer Layers of the World
+
+#DROP_MINIMUM_AMOUNT: 2
+#DROP_MAXIMUM_AMOUNT: 4
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 1
+%SECONDS_TO_MINE: 4
+
+#EXPLOSIVE_RESISTANCE: 1
+#ZOMBIE_RESISTANCE: 1
+#DRAGON_RESISTANCE: 1
+%FIREBALL_DAMAGE_TRANSMISSION: 50
+
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: deposit_coal
+$"TEXTURE2: deposit_coal
+$"TEXTURE3: deposit_coal
+$"TEXTURE4: deposit_coal
+$"TEXTURE5: deposit_coal
+$"TEXTURE6: deposit_coal

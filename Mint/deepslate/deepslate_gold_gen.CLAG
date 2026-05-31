@@ -1,0 +1,7 @@
+Block Replacement
+$NAME: Deepslate Gold Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Gold Ore
+$BLOCK_TO_REPLACE_WITH: mint_deepslate_gold
+#MAXIMUM_SPAWN_HEIGHT: -22

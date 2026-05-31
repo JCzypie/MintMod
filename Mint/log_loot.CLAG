@@ -1,0 +1,7 @@
+Enemy Loot
+$NAME: Log Loot
+$AUTHOR: JCzypie
+
+"ENEMY: Zombie, Skeleton, Alien, Demon
+"ITEM: Log
+%CHANCE: 5
