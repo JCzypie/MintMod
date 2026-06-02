@@ -1,0 +1,10 @@
+Alpha 2:
+-Increased Reinforced Rocks resistance against enemies
+-Increased damage for the Copper AK47, LMG, And Rifle
+-Lowered durability of Copper Guns
+-Temporarily removed Life Lanterns healing
+-Increased defenense given when standing on Lanterns
+-Frozen Bloodstone now mines faster
+-Decreased the amount Deepslate Diamond will drop from 2-4 to 1-2
+-Increased Chances of enemies dropping logs lmao
+-Increased Chances of Aliens dropping Sapphire

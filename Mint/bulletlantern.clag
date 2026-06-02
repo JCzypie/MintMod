@@ -5,11 +5,11 @@ $ID: mint_bulletlantern
 $DROP_ITEM: mint_bulletlantern
 $NAME: Guardian Lantern
 $DESCRIPTION1: Increases weapon proficiency when stood on
-$DESCRIPTION2: Used best in guard towers
+$DESCRIPTION2: Also increases defense against monsters
 
-%POWER_SELF_DAMAGE_MULTIPLIER: .05
-%POWER_INACCURACY_MULTIPLIER: .225
-%POWER_RECIEVED_DAMAGE_MULTIPLIER: .8
+%POWER_SELF_DAMAGE_MULTIPLIER: .01
+%POWER_INACCURACY_MULTIPLIER: .18
+%POWER_RECIEVED_DAMAGE_MULTIPLIER: .6
 =DEFLECTS_LASERS: True
 =GLOWS: True
 

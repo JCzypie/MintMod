@@ -7,8 +7,8 @@ $NAME: Deepslate Diamond
 $DESCRIPTION1: Found deep underground
 $DESCRIPTION2: This is a raw material that must be found
 
-#DROP_MINIMUM_AMOUNT: 2
-#DROP_MAXIMUM_AMOUNT: 4
+#DROP_MINIMUM_AMOUNT: 1
+#DROP_MAXIMUM_AMOUNT: 2
 
 "TOOL_TO_MINE: Pickaxe
 #TIER_TO_MINE: 4

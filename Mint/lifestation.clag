@@ -5,11 +5,10 @@ $ID: mint_lifestation
 $DROP_ITEM: mint_lifestation
 $NAME: Life Lantern
 $DESCRIPTION1: Regenerates life when stood on
-$DESCRIPTION2: Crafted using ruby
+$DESCRIPTION2: Also increases defense against monsters
 
 %POWER_REGENERATION_MULTIPLIER: 5
-%POWER_DAMAGE_PER_SECOND: -20
-%POWER_RECIEVED_DAMAGE_MULTIPLIER: .8
+%POWER_RECIEVED_DAMAGE_MULTIPLIER: .6
 =DEFLECTS_LASERS: True
 =GLOWS: True
 

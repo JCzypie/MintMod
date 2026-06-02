@@ -4,7 +4,7 @@ $AUTHOR: JCzypie
 $ID: mint_frozenblood
 $DROP_ITEM: mint_frozenblood
 $NAME: Frozen Bloodstone
-$DESCRIPTION1: Found in frozen hell
+$DESCRIPTION1: Found in arctic hell
 $DESCRIPTION2: Reduces speed when walking over this block
 
 %POWER_SPEED_MULTIPLIER: .67
@@ -14,7 +14,7 @@ $DESCRIPTION2: Reduces speed when walking over this block
 
 "TOOL_TO_MINE: Pickaxe
 #TIER_TO_MINE: 2
-%SECONDS_TO_MINE: 9
+%SECONDS_TO_MINE: 7
 
 #ZOMBIE_RESISTANCE: 4
 #DRAGON_RESISTANCE: 4
