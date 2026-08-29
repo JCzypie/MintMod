@@ -1,3 +1,6 @@
+Alpha 4:
+-Fixed Deepslate ores not generating with Arsenal Mod
+
 Alpha 3:
 -Added 6 Menu Music Tracks
 -Updated Menu Backdrop
@@ -33,3 +36,10 @@ Alpha 2:
 -Decreased the amount Deepslate Diamond will drop from 2-4 to 1-2
 -Increased Chances of enemies dropping logs lmao
 -Increased Chances of Aliens dropping Sapphire
+
+Alpha 1:
+-added 2 new tiers of weapons
+-added 13 new obtainable blocks
+-adjusted world gen to include new blocks
+-adjusted and added new recipes for vanilla items
+-adjusted starting gear to use copper tier tools
