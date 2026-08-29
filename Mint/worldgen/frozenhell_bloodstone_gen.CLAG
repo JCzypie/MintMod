@@ -1,0 +1,8 @@
+Block Replacement
+$NAME: Frozenblood Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Bloodstone
+$BLOCK_TO_REPLACE_WITH: mint_frozenblood
+#MAXIMUM_SPAWN_DISTANCE: 1200
+#MINIMUM_SPAWN_HEIGHT: -64

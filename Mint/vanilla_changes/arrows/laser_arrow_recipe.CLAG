@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Diamond Arrow Recipe
+$AUTHOR: JCzypie
+
+INPUT: Space Rock=1
+OUTPUT: mint_laserarrow=50

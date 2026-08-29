@@ -1,0 +1,31 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_deposit_explosive
+$DROP_ITEM: Explosive Powder
+$NAME: Explosive Deposit
+$DESCRIPTION1: Drops 3-6 Explosive Powder
+$DESCRIPTION2: Found in the Outer Layers of the World
+
+#DROP_MINIMUM_AMOUNT: 3
+#DROP_MAXIMUM_AMOUNT: 6
+
+%SELF_ILLUMINATION: 100
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 4
+%SECONDS_TO_MINE: 9
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 50
+
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: deposit_explosive
+$"TEXTURE2: deposit_explosive
+$"TEXTURE3: deposit_explosive
+$"TEXTURE4: deposit_explosive
+$"TEXTURE5: deposit_explosive
+$"TEXTURE6: deposit_explosive

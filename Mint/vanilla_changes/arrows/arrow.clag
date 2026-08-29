@@ -1,0 +1,11 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Arrows
+$ID: mint_arrow
+$DESCRIPTION1: Ammo for conventional bows
+#STACK_SIZE: 5000
+=AMMO: True
+$"MODEL: Arrow
+*MODEL_COLOR1: Stone
+*MODEL_COLOR2: Wood

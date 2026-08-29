@@ -1,0 +1,11 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Diamond Arrows
+$ID: mint_diamondarrow
+$DESCRIPTION1: Ammo for bloodstone bows
+#STACK_SIZE: 5000
+=AMMO: True
+$"MODEL: Arrow
+*MODEL_COLOR1: Diamond
+*MODEL_COLOR2: Gold

@@ -1,3 +1,28 @@
+Alpha 3:
+-Added 6 Menu Music Tracks
+-Updated Menu Backdrop
+-Added Support for Arsenal Mod
+-Added Bows and Arrows
+-Added Copper Knife
+-Updated World Generation
+-Added Dunes Minibiome
+-Added Hell Spires Minibiome
+-Updated Starting gear
+	-Removed Compass
+	-Increased Crates to 3
+	-Added Copper Knife
+-Adjusted Reinforced Rock Recipe
+-Adjusted Magma Recipe
+-Slightly Decreased Copper Weapons Durability
+-Alternate Compass, Loactor And Teleporter Recipes
+-Alternate Frozen Weapons Recipe
+-Increased Rubies and Sapphires Droprate
+-Increased Log Droprate
+-Swift Sand Speed Increased
+-Explosive Deepslate Ore Replaced with Explosive Deposits
+	-Drops 3-6 Instead of 2-4
+-Updated Textures
+
 Alpha 2:
 -Increased Reinforced Rocks resistance against enemies
 -Increased damage for the Copper AK47, LMG, And Rifle

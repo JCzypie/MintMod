@@ -1,0 +1,9 @@
+Block Replacement
+$NAME: Dune Deposit Copper Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Coal Ore
+$BLOCK_TO_REPLACE_WITH: mint_deposit_coal
+#MINIMUM_SPAWN_DISTANCE: 1200
+#MAXIMUM_SPAWN_DISTANCE: 1900
+#MAXIMUM_SPAWN_HEIGHT: 16

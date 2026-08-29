@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Gold Bow Recipe
+$AUTHOR: JCzypie
+
+INPUT: Gold Bars=1
+OUTPUT: mint_goldbow=1

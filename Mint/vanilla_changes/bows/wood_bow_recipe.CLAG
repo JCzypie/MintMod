@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Wood Bow Recipe
+$AUTHOR: JCzypie
+
+INPUT: Wood=2
+OUTPUT: mint_woodbow=1

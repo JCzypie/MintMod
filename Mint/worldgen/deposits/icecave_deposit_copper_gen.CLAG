@@ -1,0 +1,9 @@
+Block Replacement
+$NAME: Icecave Deposit Copper Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Copper Ore
+$BLOCK_TO_REPLACE_WITH: mint_deposit_copper
+#MINIMUM_SPAWN_DISTANCE: 2400
+#MAXIMUM_SPAWN_DISTANCE: 3000
+#MAXIMUM_SPAWN_HEIGHT: -22

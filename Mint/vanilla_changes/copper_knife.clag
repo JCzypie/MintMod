@@ -1,0 +1,13 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Copper Knife
+$ID: mint_copperknife
+$DESCRIPTION1: Basic melee defense
+
+"STYLE: Knife
+#TIER: 2
+%SECONDS_TO_ATTACK: .5
+*MATERIAL_COLOR: Copper
+
+%DAMAGE: 20

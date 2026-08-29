@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Locator Ruby Recipe
+$AUTHOR: JCzypie
+
+INPUT: Ruby=1
+OUTPUT: Locator=1

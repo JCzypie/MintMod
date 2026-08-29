@@ -1,0 +1,11 @@
+Block Replacement
+$NAME: Spire Deepslate Diamond Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Diamond Ore
+$BLOCK_TO_REPLACE_WITH: mint_deepslate_diamond
+#MINIMUM_SPAWN_DISTANCE: 1900
+#MAXIMUM_SPAWN_DISTANCE: 2400
+
+#MINIMUM_SPAWN_HEIGHT: -64
+#MAXIMUM_SPAWN_HEIGHT: 15

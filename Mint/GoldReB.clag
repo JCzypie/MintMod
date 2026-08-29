@@ -1,0 +1,6 @@
+Block Replacement
+$BLOCK_TO_REPLACE: Gold Ore
+$BLOCK_TO_REPLACE_WITH: Iron Ore
+#MINIMUM_SPAWN_DISTANCE: 0
+#MAXIMUM_SPAWN_DISTANCE: 1
+//override arsenal rebalnces to fix issues generating deepslate layer

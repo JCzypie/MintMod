@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Compass Ruby Recipe
+$AUTHOR: JCzypie
+
+INPUT: Ruby=1
+OUTPUT: Compass=1

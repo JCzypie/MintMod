@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Compass Recipe
+$AUTHOR: JCzypie
+
+INPUT: Sand=1, Coal=1
+OUTPUT: Compass=1

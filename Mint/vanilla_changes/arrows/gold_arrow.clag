@@ -1,0 +1,11 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Gold Arrows
+$ID: mint_goldarrow
+$DESCRIPTION1: Ammo for diamond bows
+#STACK_SIZE: 5000
+=AMMO: True
+$"MODEL: Arrow
+*MODEL_COLOR1: Gold
+*MODEL_COLOR2: Iron
