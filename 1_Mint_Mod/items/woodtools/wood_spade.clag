@@ -1,0 +1,15 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Wood Spade
+$ID: mint_woodspade
+$DESCRIPTION1: Used for breaking dirt and sand
+$DESCRIPTION2: Also removes C4 and TNT
+
+"STYLE: Spade
+#TIER: 0
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: Wood
+
+%DAMAGE: 6
+%SELF_DAMAGE: .4

@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Diamond Crossbow Recipe
+$AUTHOR: JCzypie
+
+INPUT: Diamonds=4
+OUTPUT: mint_diamondcrossbow=1

@@ -11,3 +11,4 @@ $DESCRIPTION1: Basic melee defense
 *MATERIAL_COLOR: Copper
 
 %DAMAGE: 20
+%SELF_DAMAGE: .22

@@ -1,0 +1,24 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_mimirock
+$DROP_ITEM: mint_mimirock
+$NAME: Mimirock
+$DESCRIPTION1: Mimics Bedrock
+$DESCRIPTION2: Can be Mined
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 0
+%SECONDS_TO_MINE: 8
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 50
+
+$"TEXTURE1: Bedrock
+$"TEXTURE2: Bedrock
+$"TEXTURE3: Bedrock
+$"TEXTURE4: Bedrock
+$"TEXTURE5: Bedrock
+$"TEXTURE6: Bedrock

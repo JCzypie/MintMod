@@ -1,0 +1,14 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Wood Axe
+$ID: mint_woodaxe
+$DESCRIPTION1: Used for chopping wood
+
+"STYLE: Axe
+#TIER: 0
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: Wood
+
+%DAMAGE: 6
+%SELF_DAMAGE: .4

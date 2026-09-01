@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Copper Crossbow Recipe
+$AUTHOR: JCzypie
+
+INPUT: Copper Bars=4
+OUTPUT: mint_coppercrossbow=1

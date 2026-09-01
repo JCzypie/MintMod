@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Frozen Crossbow Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_bloodstonecrossbow=1, mint_frozenblood=20, mint_permafrost=1
+OUTPUT: mint_frozencrossbow=1

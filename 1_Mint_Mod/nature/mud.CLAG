@@ -2,16 +2,15 @@ Block
 $AUTHOR: JCzypie
 
 $ID: mint_mud
-$DROP_ITEM: Dirt
+$DROP_ITEM: mint_mud
 $NAME: Mud
 $DESCRIPTION1: Found on the surface
 $DESCRIPTION2: This is a raw material that must be found
 
-=DEFLECTS_LASERS: False
-
-"TOOL_TO_MINE: Hands
+"TOOL_TO_MINE: Spade
 #TIER_TO_MINE: 0
 %SECONDS_TO_MINE: 3
+SECONDS_TO_MINE_PER_ITEM: Bare Hands=1
 
 #EXPLOSIVE_RESISTANCE: 1
 #ZOMBIE_RESISTANCE: 1

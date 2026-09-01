@@ -1,0 +1,5 @@
+Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_deepslate=1, Diamonds=4
+OUTPUT: mint_deepslate_diamond=1

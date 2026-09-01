@@ -1,0 +1,6 @@
+Recipe
+$NAME: Wood Pickaxe Recipe
+$AUTHOR: JCzypie
+
+INPUT: Wood=4
+OUTPUT: mint_woodpickaxe=1

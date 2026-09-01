@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Iron Crossbow Recipe
+$AUTHOR: JCzypie
+
+INPUT: Iron Bars=4
+OUTPUT: mint_ironcrossbow=1

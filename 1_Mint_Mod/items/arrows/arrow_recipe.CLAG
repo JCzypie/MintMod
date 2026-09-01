@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Arrow Recipe
+$AUTHOR: JCzypie
+
+INPUT: Wood=1, Rock=1
+OUTPUT: mint_arrow=25

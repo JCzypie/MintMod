@@ -1,3 +1,19 @@
+Alpha 5:
+-Added Crossbows
+-Added Wooden Tools
+-Added Bloodstone Axe & Spade
+-Added Mimirock
+-Added Full Grass Block
+-Replaced Bedrock tower with Mimirock
+-Added recipes for Mud, Mudgrass, Dunerock, Explosive Deposit, & Ores
+-Adjusted recipe for Swift Sand
+-Increased Bow damage & accuracy
+-Adjusted Textures for Mud and Mudgrass
+-Deepslate now drops itself instead of Rock
+-Fixed some world gen bugs
+-Fixed some tools missing durability
+-Corrected durability for Bows
+
 Alpha 4:
 -Fixed Deepslate ores not generating with Arsenal Mod
 

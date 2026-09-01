@@ -1,0 +1,15 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Bloodstone Spade
+$ID: mint_bloodstonespade
+$DESCRIPTION1: Used for breaking dirt and sand
+$DESCRIPTION2: Also removes C4 and TNT
+
+"STYLE: Spade
+#TIER: 6
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: Bloodstone
+
+%DAMAGE: 400
+%SELF_DAMAGE: .01
