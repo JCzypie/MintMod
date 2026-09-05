@@ -1,0 +1,6 @@
+Recipe
+$NAME: Gold Beam Recipe
+$AUTHOR: JCzypie
+
+INPUT: Gold Bars=4
+OUTPUT: mint_beam_gold=4

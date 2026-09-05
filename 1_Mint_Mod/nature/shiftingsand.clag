@@ -4,8 +4,8 @@ $AUTHOR: JCzypie
 $ID: mint_shiftingsand
 $DROP_ITEM: mint_shiftingsand
 $NAME: Swift Sand
-$DESCRIPTION1: Used for travel
-$DESCRIPTION2: Increases speed when walking over this block
+$DESCRIPTION1: Increases walking speed
+$DESCRIPTION2: Also increases zombies walking speed
 
 %POWER_SPEED_MULTIPLIER: 1.7
 

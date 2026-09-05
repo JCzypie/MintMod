@@ -1,0 +1,8 @@
+Enemy Loot
+$NAME: Fire Dragon Loot
+$AUTHOR: JCzypie
+
+"ENEMY: Fire Dragon
+"ITEM: Ruby
+%CHANCE: 100
+#MINIMUM_AMOUNT: 8

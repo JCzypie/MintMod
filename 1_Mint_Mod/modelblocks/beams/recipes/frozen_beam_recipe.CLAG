@@ -1,0 +1,6 @@
+Recipe
+$NAME: Diamond Beam Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_frozenblood=8
+OUTPUT: mint_beam_frozen=4

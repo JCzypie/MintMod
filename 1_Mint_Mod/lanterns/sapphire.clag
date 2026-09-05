@@ -5,7 +5,7 @@ $NAME: Sapphire
 $ID: mint_sapphire
 $DESCRIPTION1: Rare gem dropped by aliens
 $DESCRIPTION2: Collect 4 to craft lanterns with special properties
-#STACK_SIZE: 64
+#STACK_SIZE: 5000
 
 $”MODEL: Gem
 *MODEL_COLOR1: 48, 48, 255

@@ -1,18 +1,25 @@
 Alpha 5:
 -Added Crossbows
+-Added Ruby Powerglove & Sapphire Powerglove
 -Added Wooden Tools
 -Added Bloodstone Axe & Spade
--Added Mimirock
--Added Full Grass Block
+-Added Wooden Table & Wooden Chair
+-Added Beam Blocks
+-Added Mimirock (Mineable and Craftable Bedrock)
 -Replaced Bedrock tower with Mimirock
--Added recipes for Mud, Mudgrass, Dunerock, Explosive Deposit, & Ores
+-Renamed Mudgrass back to Swampgrass
+-Added recipes for Mud, Swampgrass, Dunerock, Explosive Deposit, & Ores
 -Adjusted recipe for Swift Sand
--Increased Bow damage & accuracy
--Adjusted Textures for Mud and Mudgrass
+-Updated description for Swift Sand and Dunerock
 -Deepslate now drops itself instead of Rock
 -Fixed some world gen bugs
--Fixed some tools missing durability
+-Increased Bow damage & accuracy
 -Corrected durability for Bows
+-Fixed some tools missing durability
+-Sapphires & Rubies stack to 5000
+-Texture adjustments to Mud, Mudgrass, Swiftsand, Life Lantern, Bullet Lantern,
+-Removed Cheaper Pistol Recipe
+
 
 Alpha 4:
 -Fixed Deepslate ores not generating with Arsenal Mod

@@ -1,0 +1,6 @@
+Recipe
+$NAME: Wood Stool Recipe
+$AUTHOR: JCzypie
+
+INPUT: Wood=8
+OUTPUT: mint_woodstool=1

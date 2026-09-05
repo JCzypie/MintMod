@@ -5,3 +5,5 @@ $AUTHOR: JCzypie
 "ENEMY: Zombie, Skeleton, Alien, Demon
 "ITEM: Log
 %CHANCE: 12
+#MINIMUM_AMOUNT: 1
+#MAXIMUM_AMOUNT: 2
