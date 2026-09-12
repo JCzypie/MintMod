@@ -1,8 +1,0 @@
-Block Replacement
-$NAME: Mud Generation
-$AUTHOR: JCzypie
-
-$BLOCK_TO_REPLACE: Bedrock
-$BLOCK_TO_REPLACE_WITH: mint_mimirock
-#MINIMUM_SPAWN_HEIGHT: -64
-#MAXIMUM_SPAWN_HEIGHT: 64

@@ -2,5 +2,5 @@ Recipe
 $NAME: Copper Beam Recipe
 $AUTHOR: JCzypie
 
-INPUT: Copper Bars=4
-OUTPUT: mint_beam_copper=4
+INPUT: Copper Wall=1
+OUTPUT: mint_beam_copper=1

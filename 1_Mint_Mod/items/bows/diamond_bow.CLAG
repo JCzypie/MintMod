@@ -1,7 +1,7 @@
 Firearm
 $AUTHOR: JCzypie
 
-$ID: mint_diamondbow
+$ID: mint_bow_diamond
 $NAME: Diamond Bow
 $DESCRIPTION1: Shoots deadly arrows
 $DESCRIPTION2: Uses Gold Arrows
@@ -17,7 +17,7 @@ ICON_POSITION: -10, 15, 0
 =SCOPED: False
 =HIDE_CROSSHAIR: False
 
-$AMMO_NAME: mint_goldarrow
+$AMMO_NAME: mint_arrow_gold
 "PROJECTILE_TYPE: Normal
 %BULLET_SPEED: 150
 %BULLET_LIFETIME: 2
@@ -32,6 +32,6 @@ $AMMO_NAME: mint_goldarrow
 "SHOOT_SFX: GunShot1
 
 %DAMAGE: 600
-%SELF_DAMAGE: .02
+%SELF_DAMAGE: .024
 %RECOIL: 0
 %INACCURACY: 1.5

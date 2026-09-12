@@ -4,7 +4,7 @@ $AUTHOR: JCzypie
 $NAME: Sapphire
 $ID: mint_sapphire
 $DESCRIPTION1: Rare gem dropped by aliens
-$DESCRIPTION2: Collect 4 to craft lanterns with special properties
+$DESCRIPTION2: Used to craft items with Magic Properties
 #STACK_SIZE: 5000
 
 $”MODEL: Gem

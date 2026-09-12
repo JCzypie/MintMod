@@ -1,0 +1,10 @@
+Block Replacement
+$NAME: Zencore Swiftsand Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Sand
+$BLOCK_TO_REPLACE_WITH: mint_swiftsand
+
+#MINIMUM_SPAWN_HEIGHT: 1
+#MAXIMUM_SPAWN_HEIGHT: 64
+#MINIMUM_SPAWN_DISTANCE: 4000

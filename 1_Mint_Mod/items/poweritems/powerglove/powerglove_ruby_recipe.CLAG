@@ -1,0 +1,6 @@
+Recipe
+$NAME: Powerglove Ruby Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_ruby=16
+OUTPUT: mint_powerglove_ruby=1

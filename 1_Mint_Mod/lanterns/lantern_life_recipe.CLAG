@@ -1,0 +1,6 @@
+Recipe
+$NAME: Life Lantern Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_ruby=4
+OUTPUT: mint_lantern_life=1

@@ -1,0 +1,19 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Anti Gravity Balloon
+$ID: mint_antigravityballoon
+$DESCRIPTION1: Powered with Amethyst
+$DESCRIPTION2: Accend into the sky when held
+
+"STYLE: Knife
+#TIER: 5
+%SECONDS_TO_ATTACK: .5
+*MATERIAL_COLOR: 128, 0, 128
+$MODEL: balloon
+
+"POWER_MODE: Constant Equipped
+%POWER_GRAVITY_MULTIPLIER: -.5
+
+%ICON_SIZE: .4
+ICON_POSITION: 0, -5, 0

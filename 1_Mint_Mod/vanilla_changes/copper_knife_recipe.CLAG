@@ -1,6 +1,0 @@
-Recipe
-$NAME: Copper Knife Recipe
-$AUTHOR: JCzypie
-
-INPUT: Copper Bars=1, Wood=1
-OUTPUT: mint_copperknife=1

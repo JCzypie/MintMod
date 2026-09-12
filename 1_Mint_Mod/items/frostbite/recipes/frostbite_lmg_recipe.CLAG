@@ -1,0 +1,6 @@
+Recipe
+$NAME: Frostbite LMG Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_frozenblood=30, mint_permafrost=6
+OUTPUT: mint_frostbite_lmg=1

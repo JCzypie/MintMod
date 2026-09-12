@@ -1,0 +1,17 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Frostbite Axe
+$ID: mint_frostbite_axe
+$DESCRIPTION1: Used for chopping wood
+
+"STYLE: Axe
+#TIER: 7
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: 0, 38, 255
+
+%DAMAGE: 1700
+%SELF_DAMAGE: .008
+
+"POWER_MODE: Constant Equipped
+%POWER_MINING_SPEED_MULTIPLIER: 1.10

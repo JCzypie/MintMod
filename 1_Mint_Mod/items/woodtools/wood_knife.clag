@@ -2,7 +2,7 @@ Tool
 $AUTHOR: JCzypie
 
 $NAME: Wood Knife
-$ID: mint_woodknife
+$ID: mint_wood_knife
 $DESCRIPTION1: Basic melee defense
 
 "STYLE: Knife
@@ -10,5 +10,5 @@ $DESCRIPTION1: Basic melee defense
 %SECONDS_TO_ATTACK: 0.2
 *MATERIAL_COLOR: Wood
 
-%DAMAGE: 6
-%SELF_DAMAGE: .4
+%DAMAGE: 10
+%SELF_DAMAGE: .775

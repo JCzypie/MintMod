@@ -1,0 +1,6 @@
+Recipe
+$NAME: Bloodstone Spelltome Recipe
+$AUTHOR: JCzypie
+
+INPUT: Bloodstone=10, mint_ruby=1
+OUTPUT: mint_tome_bloodstone=1

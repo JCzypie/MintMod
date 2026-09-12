@@ -1,0 +1,7 @@
+Block Replacement
+$NAME: Deposit Explosive Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Magma
+$BLOCK_TO_REPLACE_WITH: mint_deposit_explosive
+#MAXIMUM_SPAWN_HEIGHT: -28

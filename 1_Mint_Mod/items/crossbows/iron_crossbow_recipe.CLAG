@@ -2,5 +2,5 @@ Recipe
 $NAME: Mint Iron Crossbow Recipe
 $AUTHOR: JCzypie
 
-INPUT: Iron Bars=4
-OUTPUT: mint_ironcrossbow=1
+INPUT: Iron Bars=3, Wood=2
+OUTPUT: mint_crossbow_iron=1

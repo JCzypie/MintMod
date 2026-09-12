@@ -1,0 +1,20 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Hot Red Balloon
+$ID: mint_hotredballoon
+$DESCRIPTION1: Powered with Undead Rubies
+$DESCRIPTION2: Lowers Gravity when held
+
+"STYLE: Knife
+#TIER: 3
+%SECONDS_TO_ATTACK: .5
+*MATERIAL_COLOR: 255, 8, 40
+$MODEL: balloon
+
+"POWER_MODE: Constant Equipped
+%POWER_GRAVITY_MULTIPLIER: .45
+%POWER_JUMP_MULTIPLIER: .67
+
+%ICON_SIZE: .4
+ICON_POSITION: 0, -5, 0

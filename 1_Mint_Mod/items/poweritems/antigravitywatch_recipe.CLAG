@@ -1,0 +1,6 @@
+Recipe
+$NAME: Anti Gravity Watch Recipe
+$AUTHOR: JCzypie
+
+INPUT: Clock=1, mint_ruby=4, mint_sapphire=4, mint_permafrost=5
+OUTPUT: mint_antigravitywatch=1

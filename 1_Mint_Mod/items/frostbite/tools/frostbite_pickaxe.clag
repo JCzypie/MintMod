@@ -1,0 +1,17 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Frostbite Pickaxe
+$ID: mint_frostbite_pickaxe
+$DESCRIPTION1: Used for breaking certain stones and ores
+
+"STYLE: Pickaxe
+#TIER: 7
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: 0, 38, 255
+
+%DAMAGE: 1700
+%SELF_DAMAGE: .008
+
+"POWER_MODE: Constant Equipped
+%POWER_MINING_SPEED_MULTIPLIER: 1.10

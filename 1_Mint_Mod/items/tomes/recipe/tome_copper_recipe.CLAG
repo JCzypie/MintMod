@@ -1,0 +1,6 @@
+Recipe
+$NAME: Tome of Rubies Recipe
+$AUTHOR: JCzypie
+
+INPUT: Copper Bars=2, mint_ruby=1
+OUTPUT: mint_tome_copper=1

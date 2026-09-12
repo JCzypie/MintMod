@@ -1,0 +1,6 @@
+Recipe
+$NAME: Diamond Spelltome Recipe
+$AUTHOR: JCzypie
+
+INPUT: Diamonds=2, mint_ruby=1
+OUTPUT: mint_tome_diamond=1

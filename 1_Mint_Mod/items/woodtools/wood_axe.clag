@@ -2,7 +2,7 @@ Tool
 $AUTHOR: JCzypie
 
 $NAME: Wood Axe
-$ID: mint_woodaxe
+$ID: mint_wood_axe
 $DESCRIPTION1: Used for chopping wood
 
 "STYLE: Axe
@@ -10,5 +10,5 @@ $DESCRIPTION1: Used for chopping wood
 %SECONDS_TO_ATTACK: 0.5
 *MATERIAL_COLOR: Wood
 
-%DAMAGE: 6
-%SELF_DAMAGE: .4
+%DAMAGE: 4
+%SELF_DAMAGE: .775

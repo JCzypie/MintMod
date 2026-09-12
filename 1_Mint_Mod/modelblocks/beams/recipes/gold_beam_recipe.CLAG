@@ -2,5 +2,5 @@ Recipe
 $NAME: Gold Beam Recipe
 $AUTHOR: JCzypie
 
-INPUT: Gold Bars=4
-OUTPUT: mint_beam_gold=4
+INPUT: Golden Wall=1
+OUTPUT: mint_beam_gold=1

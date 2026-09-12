@@ -1,0 +1,20 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Cold Blue Balloon
+$ID: mint_coldblueballoon
+$DESCRIPTION1: Powered with Sapphires
+$DESCRIPTION2: Lowers Gravity when held
+
+"STYLE: Knife
+#TIER: 3
+%SECONDS_TO_ATTACK: .5
+*MATERIAL_COLOR: 48, 48, 255
+$MODEL: balloon
+
+"POWER_MODE: Constant Equipped
+%POWER_GRAVITY_MULTIPLIER: .2
+%POWER_JUMP_MULTIPLIER: .5
+
+%ICON_SIZE: .4
+ICON_POSITION: 0, -5, 0

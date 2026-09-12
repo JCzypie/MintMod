@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Magic Orbs Recipe
+$AUTHOR: JCzypie
+
+INPUT: Ruby=1
+OUTPUT: mint_orb=100

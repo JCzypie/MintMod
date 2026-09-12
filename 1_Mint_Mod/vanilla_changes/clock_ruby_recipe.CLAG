@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Clock Ruby Recipe
+$AUTHOR: JCzypie
+
+INPUT: Ruby=1
+OUTPUT: Clock=1

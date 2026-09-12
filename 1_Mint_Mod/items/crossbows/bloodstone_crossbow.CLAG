@@ -1,7 +1,7 @@
 Firearm
 $AUTHOR: JCzypie
 
-$ID: mint_bloodstonecrossbow
+$ID: mint_crossbow_bloodstone
 $NAME: Bloodstone Crossbow
 $DESCRIPTION1: Shoots deadly arrows
 $DESCRIPTION2: Uses Arrows
@@ -17,7 +17,7 @@ ICON_POSITION: 9, -9, 0
 =SCOPED: False
 =HIDE_CROSSHAIR: False
 
-$AMMO_NAME: mint_diamondarrow
+$AMMO_NAME: mint_arrow_diamond
 "PROJECTILE_TYPE: Normal
 %BULLET_SPEED: 150
 %BULLET_LIFETIME: 2

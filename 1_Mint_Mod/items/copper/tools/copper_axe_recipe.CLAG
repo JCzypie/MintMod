@@ -1,0 +1,6 @@
+Recipe
+$NAME: Copper Axe Recipe
+$AUTHOR: JCzypie
+
+INPUT: Copper Bars=2, Stick=2
+OUTPUT: mint_copper_axe=1

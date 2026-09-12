@@ -1,0 +1,6 @@
+Recipe
+$NAME: Gold Spelltome Recipe
+$AUTHOR: JCzypie
+
+INPUT: Gold Bars=2, mint_ruby=1
+OUTPUT: mint_tome_gold=1

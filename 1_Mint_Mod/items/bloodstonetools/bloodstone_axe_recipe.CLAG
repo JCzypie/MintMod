@@ -3,4 +3,4 @@ $NAME: bloodstone Axe Recipe
 $AUTHOR: JCzypie
 
 INPUT: Bloodstone=8, Diamonds=1
-OUTPUT: mint_bloodstoneaxe=1
+OUTPUT: mint_bloodstone_axe=1

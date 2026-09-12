@@ -1,0 +1,10 @@
+Block Replacement
+$NAME: Zencore Deepslate Iron Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Iron Ore
+$BLOCK_TO_REPLACE_WITH: mint_deepslate_iron
+
+#MINIMUM_SPAWN_HEIGHT: -64
+#MAXIMUM_SPAWN_HEIGHT: 64
+#MINIMUM_SPAWN_DISTANCE: 4000

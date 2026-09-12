@@ -1,0 +1,10 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Magic Orbs
+$ID: mint_orb
+$DESCRIPTION1: Mana used for Magic Weapons
+#STACK_SIZE: 5000
+=AMMO: True
+$"MODEL: magicorb
+*MODEL_COLOR1: 128, 0, 128

@@ -2,5 +2,5 @@ Recipe
 $NAME: Diamond Beam Recipe
 $AUTHOR: JCzypie
 
-INPUT: Diamonds=4
-OUTPUT: mint_beam_diamond=4
+INPUT: Diamond Wall=1
+OUTPUT: mint_beam_diamond=1

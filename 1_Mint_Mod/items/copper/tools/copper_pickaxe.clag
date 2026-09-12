@@ -1,0 +1,14 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Copper Pickaxe
+$ID: mint_copper_pickaxe
+$DESCRIPTION1: Used for breaking certain stones and ores
+
+"STYLE: Pickaxe
+#TIER: 2
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: 32, 255, 128
+
+%DAMAGE: 10
+%SELF_DAMAGE: .25

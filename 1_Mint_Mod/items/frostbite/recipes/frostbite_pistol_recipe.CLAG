@@ -1,0 +1,6 @@
+Recipe
+$NAME: Frostbite Pistol Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_frozenblood=5, mint_permafrost=2
+OUTPUT: mint_frostbite_pistol=1

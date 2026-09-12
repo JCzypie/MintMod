@@ -1,0 +1,17 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Anti Gravity Watch
+$ID: mint_antigravitywatch
+$DESCRIPTION1: Use the POWER key to fly
+$DESCRIPTION2: WARNING touching the sky will trap you in the atmosphere
+
+*MODEL_COLOR1: 200, 25, 200
+*MODEL_COLOR2: 128, 128, 128
+$"MODEL: antigravitywatch
+
+"POWER_MODE: Manual Equipped
+%POWER_GRAVITY_MULTIPLIER: -1
+
+%ICON_SIZE: .66
+ICON_POSITION: 0, 0, 0

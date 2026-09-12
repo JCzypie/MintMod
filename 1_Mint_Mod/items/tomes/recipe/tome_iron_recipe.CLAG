@@ -1,0 +1,6 @@
+Recipe
+$NAME: Iron Spelltome Recipe
+$AUTHOR: JCzypie
+
+INPUT: Iron Bars=2, mint_ruby=1
+OUTPUT: mint_tome_iron=1

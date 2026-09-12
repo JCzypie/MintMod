@@ -2,5 +2,5 @@ Recipe
 $NAME: Mint Gold Bow Recipe
 $AUTHOR: JCzypie
 
-INPUT: Gold Bars=1
-OUTPUT: mint_goldbow=1
+INPUT: Gold Bars=1, Iron Bars=1
+OUTPUT: mint_bow_gold=1

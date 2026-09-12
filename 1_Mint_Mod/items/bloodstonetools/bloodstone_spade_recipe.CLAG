@@ -3,4 +3,4 @@ $NAME: Wood Spade Recipe
 $AUTHOR: JCzypie
 
 INPUT: Bloodstone=8, Diamonds=1
-OUTPUT: mint_bloodstonespade=1
+OUTPUT: mint_bloodstone_spade=1

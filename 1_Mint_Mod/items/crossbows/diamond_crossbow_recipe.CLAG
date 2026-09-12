@@ -2,5 +2,5 @@ Recipe
 $NAME: Mint Diamond Crossbow Recipe
 $AUTHOR: JCzypie
 
-INPUT: Diamonds=4
-OUTPUT: mint_diamondcrossbow=1
+INPUT: Diamonds=3, Gold Bars=2
+OUTPUT: mint_crossbow_diamond=1

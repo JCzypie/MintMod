@@ -1,0 +1,15 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Copper Spade
+$ID: mint_copper_spade
+$DESCRIPTION1: Used for breaking dirt and sand
+$DESCRIPTION2: Also removes C4 and TNT
+
+"STYLE: Spade
+#TIER: 2
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: 32, 255, 128
+
+%DAMAGE: 10
+%SELF_DAMAGE: .25

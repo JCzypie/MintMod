@@ -1,0 +1,6 @@
+Recipe
+$NAME: Anti Gravity Balloon Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_hotredballoon=1, mint_coldblueballoon=1, mint_permafrost=2
+OUTPUT: mint_antigravityballoon=1

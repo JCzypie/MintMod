@@ -2,7 +2,7 @@ Item
 $AUTHOR: JCzypie
 
 $NAME: Iron Arrows
-$ID: mint_ironarrow
+$ID: mint_arrow_iron
 $DESCRIPTION1: Ammo for gold bows
 #STACK_SIZE: 5000
 =AMMO: True

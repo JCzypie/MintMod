@@ -1,0 +1,8 @@
+Block Replacement
+$NAME: Life Lantern Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Bedrock
+$BLOCK_TO_REPLACE_WITH: mint_lantern_life
+#MINIMUM_SPAWN_HEIGHT: 58
+#MAXIMUM_SPAWN_HEIGHT: 59

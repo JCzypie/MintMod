@@ -3,4 +3,4 @@ $NAME: Mint Gold Arrow Recipe
 $AUTHOR: JCzypie
 
 INPUT: Gold Bars=1
-OUTPUT: mint_goldarrow=50
+OUTPUT: mint_arrow_gold=100

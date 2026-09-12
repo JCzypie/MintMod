@@ -1,3 +1,21 @@
+Alpha 6:
+-Added Spelltomes
+-Added Balloons
+-Added Anti Gravity Watch
+-New Copper Tools
+	Now green to avoid confusion with wood tools
+	Durability matches copper firearms
+-Renamed Frozen Weapons & Tools to Frostbite, also slightly darker blue color
+-Deepslate Ores now drop 1-2 instead of 2-4 ores
+-Lowered Starting ammo from 400 to 160
+-Lowered Copper Durability
+-Lowered Wood Tool Durability
+-Lowered Swiftsand Speedboost from 70% to 50%
+-Explosive Deposits now generate at any distances (found at Y:-28)
+-Life and Guardian Lantern now generate on the bedrock tower
+-Lots of recipe changes to reduce bloat in the menus
+-Fixed some missing recipes
+
 Alpha 5:
 -Added Crossbows
 -Added Ruby Powerglove & Sapphire Powerglove
@@ -19,7 +37,6 @@ Alpha 5:
 -Sapphires & Rubies stack to 5000
 -Texture adjustments to Mud, Mudgrass, Swiftsand, Life Lantern, Bullet Lantern,
 -Removed Cheaper Pistol Recipe
-
 
 Alpha 4:
 -Fixed Deepslate ores not generating with Arsenal Mod

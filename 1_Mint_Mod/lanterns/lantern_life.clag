@@ -1,0 +1,33 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_lantern_life
+$DROP_ITEM: mint_lantern_life
+$NAME: Life Lantern
+$DESCRIPTION1: Regenerates life when stood on
+$DESCRIPTION2: Also increases defense against monsters
+
+%POWER_REGENERATION_MULTIPLIER: 5
+%POWER_RECIEVED_DAMAGE_MULTIPLIER: .6
+=DEFLECTS_LASERS: True
+=GLOWS: True
+
+%SELF_ILLUMINATION: 15
+%LIGHT_TRANSMISSION 100
+
+"TOOL_TO_MINE: Hands
+#TIER_TO_MINE: 0
+%SECONDS_TO_MINE: 0
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 20
+
+=HAS_NORMALSPEC: True
+$"TEXTURE1: lantern_life
+$"TEXTURE2: lantern_life
+$"TEXTURE3: lantern_life
+$"TEXTURE4: lantern_life
+$"TEXTURE5: lantern_life
+$"TEXTURE6: lantern_life

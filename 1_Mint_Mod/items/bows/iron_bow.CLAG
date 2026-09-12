@@ -1,7 +1,7 @@
 Firearm
 $AUTHOR: JCzypie
 
-$ID: mint_ironbow
+$ID: mint_bow_iron
 $NAME: Iron Bow
 $DESCRIPTION1: Shoots deadly arrows
 $DESCRIPTION2: Uses Arrows
@@ -31,7 +31,7 @@ $AMMO_NAME: mint_arrow
 "RELOAD_SFX: Reload
 "SHOOT_SFX: GunShot1
 
-%DAMAGE: 80
+%DAMAGE: 65
 %SELF_DAMAGE: .1
 %RECOIL: 0
 %INACCURACY: 1.5

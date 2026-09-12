@@ -2,7 +2,7 @@ Tool
 $AUTHOR: JCzypie
 
 $NAME: Wood Spade
-$ID: mint_woodspade
+$ID: mint_wood_spade
 $DESCRIPTION1: Used for breaking dirt and sand
 $DESCRIPTION2: Also removes C4 and TNT
 
@@ -11,5 +11,5 @@ $DESCRIPTION2: Also removes C4 and TNT
 %SECONDS_TO_ATTACK: 0.5
 *MATERIAL_COLOR: Wood
 
-%DAMAGE: 6
-%SELF_DAMAGE: .4
+%DAMAGE: 4
+%SELF_DAMAGE: .775

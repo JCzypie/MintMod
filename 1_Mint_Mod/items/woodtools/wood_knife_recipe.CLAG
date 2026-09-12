@@ -2,5 +2,5 @@ Recipe
 $NAME: Wood Knife Recipe
 $AUTHOR: JCzypie
 
-INPUT: Wood=4
-OUTPUT: mint_woodknife=1
+INPUT: Stick=2
+OUTPUT: mint_wood_knife=1

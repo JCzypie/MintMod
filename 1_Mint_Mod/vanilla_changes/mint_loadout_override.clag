@@ -2,4 +2,4 @@ Loadout Override
 $NAME: Mint Mod Loadout Override
 $AUTHOR: JCzypie
 
-ITEMS: Copper Pickaxe=1, Copper Pistol=1, Copper Knife=1, Torch=24, Bullets=400, Crate=3
+ITEMS: mint_copper_pickaxe=1, mint_copper_pistol=1, mint_copper_knife=1, Torch=24, Bullets=160, Crate=3

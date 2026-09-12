@@ -1,7 +1,7 @@
 Firearm
 $AUTHOR: JCzypie
 
-$ID: mint_goldbow
+$ID: mint_bow_gold
 $NAME: Gold Bow
 $DESCRIPTION1: Shoots deadly arrows
 $DESCRIPTION2: Uses Iron Arrows
@@ -17,7 +17,7 @@ ICON_POSITION: -10, 15, 0
 =SCOPED: False
 =HIDE_CROSSHAIR: False
 
-$AMMO_NAME: mint_ironarrow
+$AMMO_NAME: mint_arrow_iron
 "PROJECTILE_TYPE: Normal
 %BULLET_SPEED: 150
 %BULLET_LIFETIME: 2

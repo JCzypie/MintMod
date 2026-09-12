@@ -2,5 +2,5 @@ Recipe
 $NAME: Iron Beam Recipe
 $AUTHOR: JCzypie
 
-INPUT: Iron Bars=4
-OUTPUT: mint_beam_iron=4
+INPUT: Iron Wall=1
+OUTPUT: mint_beam_iron=1
