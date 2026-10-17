@@ -1,0 +1,22 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Iron Digging Glove
+$ID: mint_glove_iron
+$DESCRIPTION1: Mine through Deepslate faster
+$DESCRIPTION2: Also mines blocks 15% faster
+
+"STYLE: Pickaxe
+#TIER: 3
+%SECONDS_TO_ATTACK: .75
+*MATERIAL_COLOR: Iron
+$MODEL: powerglove
+
+%DAMAGE: 50
+%SELF_DAMAGE: .1
+
+"POWER_MODE: Constant Equipped
+%POWER_MINING_SPEED_MULTIPLIER: 1.15
+
+%ICON_SIZE: .5
+ICON_POSITION: 0, -5, 0

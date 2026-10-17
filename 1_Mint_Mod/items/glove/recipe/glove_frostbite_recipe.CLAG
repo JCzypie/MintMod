@@ -1,0 +1,6 @@
+Recipe
+$NAME: Powerglove Frostbite Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_frostbite_pickaxe=1, mint_frozenblood=5, mint_permafrost=2
+OUTPUT: mint_glove_frostbite=1

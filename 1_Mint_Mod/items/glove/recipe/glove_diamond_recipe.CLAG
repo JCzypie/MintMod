@@ -1,0 +1,6 @@
+Recipe
+$NAME: Powerglove Diamond Recipe
+$AUTHOR: JCzypie
+
+INPUT: Diamond Pickaxe=1, Diamonds=2
+OUTPUT: mint_glove_diamond=1

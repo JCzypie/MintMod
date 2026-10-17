@@ -3,4 +3,4 @@ $NAME: Mint Arrow Recipe
 $AUTHOR: JCzypie
 
 INPUT: Stick=1, Rock=1
-OUTPUT: mint_arrow=50
+OUTPUT: mint_arrow=100

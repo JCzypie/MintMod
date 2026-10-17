@@ -1,0 +1,6 @@
+Recipe
+$NAME: Powerglove Iron Recipe
+$AUTHOR: JCzypie
+
+INPUT: Iron Pickaxe=1, Iron Bars=2
+OUTPUT: mint_glove_iron=1

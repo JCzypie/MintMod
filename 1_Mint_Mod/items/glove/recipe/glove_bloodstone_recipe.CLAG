@@ -1,0 +1,6 @@
+Recipe
+$NAME: Powerglove Bloodstone Recipe
+$AUTHOR: JCzypie
+
+INPUT: Bloodstone Pickaxe=1, Bloodstone=10
+OUTPUT: mint_glove_bloodstone=1

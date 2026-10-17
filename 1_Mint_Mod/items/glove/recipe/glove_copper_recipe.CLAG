@@ -1,0 +1,6 @@
+Recipe
+$NAME: Powerglove Copper Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_copper_pickaxe=1, Copper Bars=2
+OUTPUT: mint_glove_copper=1

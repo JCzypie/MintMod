@@ -7,6 +7,7 @@ $DESCRIPTION1: Rare gem dropped by aliens
 $DESCRIPTION2: Used to craft items with Magic Properties
 #STACK_SIZE: 5000
 
-$”MODEL: Gem
+$"MODEL: sapphire
 *MODEL_COLOR1: 48, 48, 255
 *MODEL_COLOR2: 0, 0, 224
+ICON_POSITION: 0, -14, 0

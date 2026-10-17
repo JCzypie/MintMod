@@ -3,8 +3,8 @@ $AUTHOR: JCzypie
 
 $ID: mint_tome_copper
 $NAME: Copper Spelltome
-$DESCRIPTION1: Shoots Bursts of Magic
-$DESCRIPTION2: Destroys Weak Blocks
+$DESCRIPTION1: Shoots Bursts of Magic that destroy blocks
+$DESCRIPTION2: Requires Mana Orbs
 
 $"MODEL: gemtome
 "ANIMATION: Generic

@@ -4,7 +4,7 @@ $AUTHOR: JCzypie
 $ID: mint_crossbow_gold
 $NAME: Gold Crossbow
 $DESCRIPTION1: Shoots deadly arrows
-$DESCRIPTION2: Uses Arrows
+$DESCRIPTION2: Uses Iron Arrows
 
 $"MODEL: CrossBow
 "ANIMATION: Rifle

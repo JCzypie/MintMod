@@ -1,6 +1,0 @@
-Recipe
-$NAME: Powerglove Amethyst Recipe
-$AUTHOR: JCzypie
-
-INPUT: mint_powerglove_ruby=1, mint_powerglove_sapphire=1, mint_permafrost=2
-OUTPUT: mint_powerglove_amethyst=1

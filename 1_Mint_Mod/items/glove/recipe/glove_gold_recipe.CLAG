@@ -1,0 +1,6 @@
+Recipe
+$NAME: Powerglove Gold Recipe
+$AUTHOR: JCzypie
+
+INPUT: Gold Pickaxe=1, Gold Bars=2
+OUTPUT: mint_glove_gold=1

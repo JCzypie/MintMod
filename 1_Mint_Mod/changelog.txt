@@ -1,3 +1,15 @@
+Alpha 7:
+-Reworked power gloves
+	-is now an upgrade to the pickaxes that mines deepslate faster
+	-also mines regular blocks 10% faster
+	-removed increased jump height when held
+-Deepslate is now tougher to mine (6 seconds to mine from 4)
+-adjusted balloon jump height
+-arrow recipe now crafts 100 arrows instead of 50
+-added model for ruby and sapphires
+-updated description for spell tomes
+-corrected crossbow description to use correct arrow type
+
 Alpha 6:
 -Added Spelltomes
 -Added Balloons
