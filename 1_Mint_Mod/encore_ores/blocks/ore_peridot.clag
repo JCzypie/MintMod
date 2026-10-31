@@ -1,0 +1,25 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_ore_peridot
+$DROP_ITEM: mint_peridot
+$NAME: Peridot Ore
+$DESCRIPTION1: Found Underground
+$DESCRIPTION2: This is a raw matereial that must be found
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 7
+%SECONDS_TO_MINE: 4
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 10
+
+=HAS_NORMALSPEC: False
+$"TEXTURE1: ore_peridot
+$"TEXTURE2: ore_peridot
+$"TEXTURE3: ore_peridot
+$"TEXTURE4: ore_peridot
+$"TEXTURE5: ore_peridot
+$"TEXTURE6: ore_peridot

@@ -1,0 +1,10 @@
+Block Replacement
+$NAME: Encore Peridot Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Copper Ore
+$BLOCK_TO_REPLACE_WITH: mint_ore_peridot
+
+#MINIMUM_SPAWN_HEIGHT: -64
+#MAXIMUM_SPAWN_HEIGHT: 64
+#MINIMUM_SPAWN_DISTANCE: 4000

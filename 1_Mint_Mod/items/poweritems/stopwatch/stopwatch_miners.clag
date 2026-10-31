@@ -1,0 +1,17 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Miners Stopwatch
+$ID: mint_stopwatch_miners
+$DESCRIPTION1: Utility Accessory
+$DESCRIPTION2: Increases mining speed
+
+*MODEL_COLOR1: 70, 100, 195
+*MODEL_COLOR2: 30, 45, 60
+$"MODEL: stopwatch
+
+"POWER_MODE: Constant
+%POWER_MINING_SPEED_MULTIPLIER: 1.225
+
+%ICON_SIZE: .66
+ICON_POSITION: 0, 0, 0

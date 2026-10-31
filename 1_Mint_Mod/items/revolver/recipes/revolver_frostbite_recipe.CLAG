@@ -1,0 +1,5 @@
+Recipe
+$AUTHOR: JCzypie
+
+OUTPUT: mint_revolver_frostbite=1
+INPUT: mint_frozenblood=10, mint_permafrost=4

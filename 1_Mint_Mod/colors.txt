@@ -1,0 +1,7 @@
+Copper: 32, 255, 128
+Fossil: 143, 121, 87
+Frostbite: 0, 38, 255
+Peridot: 138, 208, 64
+Citrine: 230, 155, 30
+Kunzite: 185, 80, 220
+Black Diamond: 16, 16, 16

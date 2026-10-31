@@ -1,0 +1,6 @@
+Recipe
+$NAME: Peridot Spelltome Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_peridot=7, mint_deepslate=10, mint_ruby=1
+OUTPUT: mint_tome_peridot=1

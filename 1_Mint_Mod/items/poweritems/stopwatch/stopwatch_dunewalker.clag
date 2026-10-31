@@ -1,0 +1,17 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Dunewalker Stopwatch
+$ID: mint_stopwatch_dunewalker
+$DESCRIPTION1: Utility Accessory
+$DESCRIPTION2: Increases movement speed
+
+*MODEL_COLOR1: 215, 185, 100
+*MODEL_COLOR2: 95, 70, 30
+$"MODEL: stopwatch
+
+"POWER_MODE: Constant
+%POWER_SPEED_MULTIPLIER: 1.4
+
+%ICON_SIZE: .66
+ICON_POSITION: 0, 0, 0

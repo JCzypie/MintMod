@@ -1,0 +1,12 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Fossils
+$ID: mint_fossils
+$DESCRIPTION1: Found in the Dune Deserts
+$DESCRIPTION2: Used to craft items
+#STACK_SIZE: 5000
+
+$"MODEL: Ore
+*MODEL_COLOR1: 143, 121, 87
+*MODEL_COLOR2: 128, 255, 55

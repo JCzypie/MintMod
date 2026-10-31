@@ -1,0 +1,12 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Black Diamonds
+$ID: mint_blackdiamond
+$DESCRIPTION1: Rare gem found in the outer layers
+$DESCRIPTION2: Used to craft items
+#STACK_SIZE: 5000
+
+$"MODEL: Gem
+*MODEL_COLOR1: 16, 16, 16
+*MODEL_COLOR2: 16, 16, 16

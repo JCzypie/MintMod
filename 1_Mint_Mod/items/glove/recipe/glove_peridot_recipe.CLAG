@@ -1,0 +1,6 @@
+Recipe
+$NAME: Powerglove Peridot Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_peridot_pickaxe=1, mint_peridot=7, mint_deepslate=10
+OUTPUT: mint_glove_peridot=1

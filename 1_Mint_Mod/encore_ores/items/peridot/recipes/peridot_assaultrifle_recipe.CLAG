@@ -1,0 +1,6 @@
+Recipe
+$NAME: Peridot Assault Rifle Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_peridot=27, mint_deepslate=50
+OUTPUT: mint_peridot_rifle=1

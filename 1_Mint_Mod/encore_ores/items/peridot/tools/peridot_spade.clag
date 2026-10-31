@@ -1,0 +1,18 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Peridot Spade
+$ID: mint_peridot_spade
+$DESCRIPTION1: Used for breaking dirt and sand
+$DESCRIPTION2: Also removes C4 and TNT
+
+"STYLE: Spade
+#TIER: 8
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: 176, 221, 104
+
+%DAMAGE: 1700
+%SELF_DAMAGE: .008
+
+"POWER_MODE: Constant Equipped
+%POWER_MINING_SPEED_MULTIPLIER: 1.10

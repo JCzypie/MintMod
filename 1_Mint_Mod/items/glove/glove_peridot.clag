@@ -1,0 +1,22 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Peridott Digging Glove
+$ID: mint_glove_peridot
+$DESCRIPTION1: Mine through Deepslate faster
+$DESCRIPTION2: Also mines blocks 25% faster
+
+"STYLE: Pickaxe
+#TIER: 8
+%SECONDS_TO_ATTACK: .75
+*MATERIAL_COLOR: 138, 208, 64
+$MODEL: powerglove
+
+%DAMAGE: 1700
+%SELF_DAMAGE: .008
+
+"POWER_MODE: Constant Equipped
+%POWER_MINING_SPEED_MULTIPLIER: 1.35
+
+%ICON_SIZE: .5
+ICON_POSITION: 0, -5, 0

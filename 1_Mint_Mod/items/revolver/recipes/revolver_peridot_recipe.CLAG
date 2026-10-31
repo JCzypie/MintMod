@@ -1,0 +1,5 @@
+Recipe
+$AUTHOR: JCzypie
+
+OUTPUT: mint_revolver_peridot=1
+INPUT: mint_peridot=5, mint_deepslate=10

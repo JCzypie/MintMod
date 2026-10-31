@@ -1,0 +1,25 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_ore_kunzite
+$DROP_ITEM: mint_kunzite
+$NAME: Kunzite Ore
+$DESCRIPTION1: Found Underground
+$DESCRIPTION2: This is a raw matereial that must be found
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 9
+%SECONDS_TO_MINE: 4
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 10
+
+=HAS_NORMALSPEC: False
+$"TEXTURE1: ore_kunzite
+$"TEXTURE2: ore_kunzite
+$"TEXTURE3: ore_kunzite
+$"TEXTURE4: ore_kunzite
+$"TEXTURE5: ore_kunzite
+$"TEXTURE6: ore_kunzite

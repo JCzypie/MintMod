@@ -1,6 +1,0 @@
-Recipe
-$NAME: Wood Stool Recipe
-$AUTHOR: JCzypie
-
-INPUT: Wood=1, Stick=4
-OUTPUT: mint_woodstool=1

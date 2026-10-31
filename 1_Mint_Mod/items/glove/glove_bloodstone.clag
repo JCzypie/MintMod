@@ -4,7 +4,7 @@ $AUTHOR: JCzypie
 $NAME: Bloodstone Digging Glove
 $ID: mint_glove_bloodstone
 $DESCRIPTION1: Mine through Deepslate faster
-$DESCRIPTION2: Also mines blocks 15% faster
+$DESCRIPTION2: Also mines blocks 25% faster
 
 "STYLE: Pickaxe
 #TIER: 6
@@ -16,7 +16,7 @@ $MODEL: powerglove
 %SELF_DAMAGE: .01
 
 "POWER_MODE: Constant Equipped
-%POWER_MINING_SPEED_MULTIPLIER: 1.15
+%POWER_MINING_SPEED_MULTIPLIER: 1.25
 
 %ICON_SIZE: .5
 ICON_POSITION: 0, -5, 0

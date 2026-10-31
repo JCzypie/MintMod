@@ -1,0 +1,17 @@
+Tool
+$AUTHOR: JCzypie
+
+$NAME: Peridot Pickaxe
+$ID: mint_peridot_pickaxe
+$DESCRIPTION1: Used for breaking certain stones and ores
+
+"STYLE: Pickaxe
+#TIER: 8
+%SECONDS_TO_ATTACK: 0.5
+*MATERIAL_COLOR: 176, 221, 104
+
+%DAMAGE: 1700
+%SELF_DAMAGE: .008
+
+"POWER_MODE: Constant Equipped
+%POWER_MINING_SPEED_MULTIPLIER: 1.10

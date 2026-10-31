@@ -1,0 +1,12 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Citrine
+$ID: mint_citrine
+$DESCRIPTION1: Rare gem found in the outer layers
+$DESCRIPTION2: Used to craft items
+#STACK_SIZE: 5000
+
+$MODEL: Ore
+*MODEL_COLOR1: 230, 155, 30
+*MODEL_COLOR2: 180, 127, 235

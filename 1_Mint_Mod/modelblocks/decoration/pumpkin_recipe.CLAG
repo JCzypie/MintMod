@@ -1,0 +1,6 @@
+Recipe
+$NAME: Pumpkin Recipe
+$AUTHOR: JCzypie
+
+INPUT: Dirt=64
+OUTPUT: mint_pumpkin=1

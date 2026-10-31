@@ -1,0 +1,24 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_reinforcedrock
+$DROP_ITEM: mint_reinforcedrock
+$NAME: Reinforced Rock
+$DESCRIPTION1: Stronger Material
+$DESCRIPTION2: Combination of Wood and Stone
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 1
+%SECONDS_TO_MINE: 4
+$MODEL: reinforcedrock
+%ICON_SIZE: 1.5
+
+=ALLOWS_ZOMBIE_SPAWNS: False
+=ALLOWS_SKELETON_SPAWNS: False
+=ALLOWS ALIEN_SPAWNS: False
+=ALLOW_DEMON_SPAWNS: False
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 10

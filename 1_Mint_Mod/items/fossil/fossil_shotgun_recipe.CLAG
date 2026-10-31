@@ -1,0 +1,6 @@
+Recipe
+$NAME: Fossil Shotgun Recipe
+$AUTHOR: JCzypie
+
+INPUT: Gold Bars=2, mint_fossils=12, mint_coal=5
+OUTPUT: mint_fossil_shotgun=1

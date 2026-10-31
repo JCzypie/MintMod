@@ -1,0 +1,6 @@
+Recipe
+$NAME: Peridot LMG Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_peridot=32, mint_deepslate=60
+OUTPUT: mint_peridot_lmg=1

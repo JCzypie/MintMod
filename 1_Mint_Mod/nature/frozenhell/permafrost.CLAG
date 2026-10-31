@@ -5,7 +5,7 @@ $ID: mint_permafrost
 $DROP_ITEM: mint_permafrost
 $NAME: Permafrost
 $DESCRIPTION1: Found in arctic hell
-$DESCRIPTION2: Upgrades bloodstone tools and weapons
+$DESCRIPTION2: Used to craft Frostbite Weapons
 
 %POWER_SPEED_MULTIPLIER: .67
 =HAS_COLLISION: True

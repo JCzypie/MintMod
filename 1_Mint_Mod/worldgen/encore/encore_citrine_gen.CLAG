@@ -1,0 +1,10 @@
+Block Replacement
+$NAME: Encore Citrine Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Iron Ore
+$BLOCK_TO_REPLACE_WITH: mint_ore_citrine
+
+#MINIMUM_SPAWN_HEIGHT: -64
+#MAXIMUM_SPAWN_HEIGHT: 64
+#MINIMUM_SPAWN_DISTANCE: 4000

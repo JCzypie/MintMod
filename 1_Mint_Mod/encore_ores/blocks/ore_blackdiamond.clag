@@ -1,0 +1,25 @@
+Block
+$AUTHOR: JCzypie
+
+$ID: mint_ore_blackdiamond
+$DROP_ITEM: mint_blackdiamond
+$NAME: Black Diamond Ore
+$DESCRIPTION1: Found Underground
+$DESCRIPTION2: This is a raw matereial that must be found
+
+"TOOL_TO_MINE: Pickaxe
+#TIER_TO_MINE: 10
+%SECONDS_TO_MINE: 4
+
+#EXPLOSIVE_RESISTANCE: 5
+#ZOMBIE_RESISTANCE: 5
+#DRAGON_RESISTANCE: 5
+%FIREBALL_DAMAGE_TRANSMISSION: 10
+
+=HAS_NORMALSPEC: False
+$"TEXTURE1: ore_blackdiamond
+$"TEXTURE2: ore_blackdiamond
+$"TEXTURE3: ore_blackdiamond
+$"TEXTURE4: ore_blackdiamond
+$"TEXTURE5: ore_blackdiamond
+$"TEXTURE6: ore_blackdiamond

@@ -1,0 +1,6 @@
+Recipe
+$NAME: Mint Peridot Crossbow Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_peridot=22, mint_deepslate=40
+OUTPUT: mint_crossbow_peridot=1

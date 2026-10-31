@@ -1,0 +1,12 @@
+Item
+$AUTHOR: JCzypie
+
+$NAME: Peridot
+$ID: mint_peridot
+$DESCRIPTION1: Rare gem found in the outer layers
+$DESCRIPTION2: Used to craft items
+#STACK_SIZE: 5000
+
+$MODEL: Ore
+*MODEL_COLOR1: 138, 208, 64
+*MODEL_COLOR2: 180, 127, 235

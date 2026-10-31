@@ -1,0 +1,6 @@
+Recipe
+$NAME: Wood Stool Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_reinforcedrock=32
+OUTPUT: mint_chair=1

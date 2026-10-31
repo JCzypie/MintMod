@@ -1,6 +1,6 @@
 Recipe
-$NAME: Hot Red Balloon Recipe
+$NAME: Cold Blue Balloon Recipe
 $AUTHOR: JCzypie
 
-INPUT: mint_sapphire=4
+INPUT: mint_sapphire=8, Explosive Powder=1
 OUTPUT: mint_coldblueballoon=1

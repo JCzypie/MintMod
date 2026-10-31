@@ -1,3 +1,20 @@
+Alpha 8:
+-added carbine assault rifles, more accurate, less damage
+-added fanning revolver, stronger pistol with slower reload
+-added fossil deposits
+-added fossilized shotgun
+-added dunewalker stopwatch
+-added miners stopwatch
+-added dragonslayer pistol
+-added decorative pumpkin
+-Increased glove mining speed from 10% to 25%
+-increased balloons jump height
+-improved chair and table model/texture
+-new frozen hellstone and permafrost texture
+-some blocks now use models to save atlas slots
+-fixed incorrect recoil values for copper and frostbite assault rifles
+-removed explosive deposit from world generation
+
 Alpha 7:
 -Reworked power gloves
 	-is now an upgrade to the pickaxes that mines deepslate faster

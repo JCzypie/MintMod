@@ -1,0 +1,10 @@
+Block Replacement
+$NAME: Encore Deepslate Diamond Generation
+$AUTHOR: JCzypie
+
+$BLOCK_TO_REPLACE: Diamond Ore
+$BLOCK_TO_REPLACE_WITH: mint_ore_blackdiamond
+
+#MINIMUM_SPAWN_HEIGHT: -64
+#MAXIMUM_SPAWN_HEIGHT: 64
+#MINIMUM_SPAWN_DISTANCE: 4000

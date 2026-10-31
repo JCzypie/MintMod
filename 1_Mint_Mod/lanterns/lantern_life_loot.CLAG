@@ -1,7 +1,0 @@
-Enemy Loot
-$NAME: Life Lantern Loot
-$AUTHOR: JCzypie
-
-"ENEMY: Zombie, Skeleton, Alien, Demon
-"ITEM: mint_lantern_life
-%CHANCE: 1

@@ -27,7 +27,7 @@ $AMMO_NAME: mint_orb
 "RELOAD_SFX: ShotGunReload
 "SHOOT_SFX: LightSaberSwing
 
-%DAMAGE: 1800
+%DAMAGE: 1500
 %SELF_DAMAGE: .008
 %RECOIL: 0
 %INACCURACY: 2

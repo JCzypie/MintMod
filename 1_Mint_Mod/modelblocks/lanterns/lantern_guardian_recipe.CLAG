@@ -1,0 +1,6 @@
+Recipe
+$NAME: Guardian Lantern Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_sapphire=4
+OUTPUT: mint_lantern_guardian=1

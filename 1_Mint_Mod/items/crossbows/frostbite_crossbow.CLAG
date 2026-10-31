@@ -31,7 +31,7 @@ $AMMO_NAME: mint_arrow_diamond
 "RELOAD_SFX: Reload
 "SHOOT_SFX: GunShot1
 
-%DAMAGE: 1800
+%DAMAGE: 1500
 %SELF_DAMAGE: .008
 %RECOIL: 0
 %INACCURACY: 1.5

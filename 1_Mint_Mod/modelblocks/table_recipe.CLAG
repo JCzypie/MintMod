@@ -1,0 +1,6 @@
+Recipe
+$NAME: Wood Table Recipe
+$AUTHOR: JCzypie
+
+INPUT: mint_reinforcedrock=32
+OUTPUT: mint_table=1
